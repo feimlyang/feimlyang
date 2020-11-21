@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+![Manlin's github stats](https://github-readme-stats.vercel.app/api?username=feimlyang&show_icons=true&count_private=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feimlyang&exclude_repo=feimlyang.github.io&layout=compact&theme=tokyonight)](https://github.com/feimlyang/github-readme-stats)
+
+
 <!--
 **feimlyang/feimlyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
